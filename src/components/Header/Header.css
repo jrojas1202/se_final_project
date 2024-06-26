@@ -1,0 +1,52 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 30px 0px 30px;
+  height: 120px;
+  background-color: bisque;
+  border-bottom: 1px solid rgba(84, 84, 84, 0.7);
+}
+
+.header__title {
+  font-family: "Pokemon Hollow", sans-serif;
+  margin: 0;
+  color: #000;
+}
+
+.header__link {
+  font-family: "Inter", sans-serif;
+  margin: 0;
+  color: #000;
+  border: 2px solid #000;
+  padding: 5px 20px;
+  border-radius: 20px;
+}
+
+.search-input {
+  width: 285px;
+  height: 45px;
+  border-radius: 50px;
+  border: 1px solid #2f71e5;
+  outline: none;
+  color: #000;
+  font-family: "Inter", sans-serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  padding-left: 10px;
+}
+
+@media screen and (max-width: 640px) {
+  .header {
+    flex-direction: column;
+    margin: 10px 15px 0px 15px;
+    justify-content: center;
+    max-width: 100%;
+    gap: 10px;
+  }
+
+  .search-input {
+    margin-bottom: 10px;
+  }
+}
