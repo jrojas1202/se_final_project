@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/se_final_project/static/css/main.b91f40e4.css",
-    "main.js": "/se_final_project/static/js/main.0fd64d42.js",
+    "main.js": "/se_final_project/static/js/main.0e4a65ee.js",
     "static/media/Inter-Black.woff": "/se_final_project/static/media/Inter-Black.c6938660eec019fefd68.woff",
     "static/media/Inter-Regular.woff": "/se_final_project/static/media/Inter-Regular.8c206db99195777c6769.woff",
     "static/media/Inter-Black.woff2": "/se_final_project/static/media/Inter-Black.15ca31c0a2a68f76d2d1.woff2",
@@ -9,10 +9,10 @@
     "static/media/Pokemon Hollow.ttf": "/se_final_project/static/media/Pokemon Hollow.47f77ce9939c5330492b.ttf",
     "index.html": "/se_final_project/index.html",
     "main.b91f40e4.css.map": "/se_final_project/static/css/main.b91f40e4.css.map",
-    "main.0fd64d42.js.map": "/se_final_project/static/js/main.0fd64d42.js.map"
+    "main.0e4a65ee.js.map": "/se_final_project/static/js/main.0e4a65ee.js.map"
   },
   "entrypoints": [
     "static/css/main.b91f40e4.css",
-    "static/js/main.0fd64d42.js"
+    "static/js/main.0e4a65ee.js"
   ]
 }
