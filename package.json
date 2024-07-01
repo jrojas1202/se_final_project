@@ -1,7 +1,7 @@
 {
   "name": "se_final_project",
   "version": "0.1.0",
-  "homepage": "https://jrojas1202.github.io/se_final_project/",
+  "homepage": "https://jrojas1202.github.io/se_final_project",
   "private": true,
   "dependencies": {
     "@tanstack/react-query": "^5.18.1",
